@@ -7,7 +7,7 @@ Tabletown is a php package for converting data, such as arrays, into nice ascii/
 
 Tabletown can accept input from arrays, PDO statements, and eloquent collections. It properly handles multibyte characters, including emojis, as well as unprintable ansi character sequences and tabs. It allows setting per-column alignment and offers a number of border style options.
 
-Tabletown was developed as an internal-use tool for fruitbat studios/cloverhitch technologies/kludgetastic implementations.
+Tabletown was developed as an internal-use tool for [fruitbat studios](https://fruitbat.studio)/cloverhitch technologies/kludgetastic implementations.
 
 ## Install
 Tabletown is installed via composer:
